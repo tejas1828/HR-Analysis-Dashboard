@@ -66,4 +66,4 @@ The dashboard helps stakeholders:
 • Support data-driven HR decision-making
 • Optimize workforce planning and management
 ## Dashboard Preview:
-<a href="https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/HR_Dashboard_Screenshot.png">View Dashboard</a>
+<a href="https://github.com/tejas1828/HR-Analysis-Dashboard/blob/main/HR%20DASHBOARD.png">View Dashboard</a>
