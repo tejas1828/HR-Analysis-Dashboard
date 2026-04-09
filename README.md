@@ -7,7 +7,7 @@ This project presents an interactive HR Analytics Dashboard built using Power BI
 ### The dataset used for this project contains HR-related information such as employee demographics, salary, job roles, education, and attrition details.
 
 ### Download Dataset:
--<a href="https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dataset.csv](https://github.com/tejas1828/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
+-<a href="[https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dataset.csv](https://github.com/tejas1828/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv](https://github.com/tejas1828/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv)">Dataset</a>
 ##Key Features
 
 • Overall Workforce Overview
